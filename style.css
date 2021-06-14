@@ -1,5 +1,17 @@
-h1{
+h2{
     background-color: lightgrey;
     border-radius: 10px;
     border: 2px black;
+    text-align: center;
+}
+
+.row{
+    margin-right: -15px;
+    margin-left: -15px;
+}
+
+.imgCentre{
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 100%;
 }
